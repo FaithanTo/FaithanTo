@@ -7,11 +7,11 @@ Hi, I'm Faithan - pronounced like "Nathan with an F"!
 - Whether it’s forecasting demand, streamlining ERP systems, or designing dashboards, I focus on delivering operational impact.
 - **MS in Business Analytics Candidate at UMN Carlson** where I've used Python, R, SQL, Tableau, Power BI, and Jira to build practical, project-based analytics solutions across supply chain use cases.
 
-## Skills & Tools
-- **Technical:** Python (NumPy, Pandas, Polars, Scikit-learn, XGBoost, Keras, PyTorch), RStudio, SQL, MySQL, Spark, NLP, LLM
-- **Business Intelligence:** Tableau, Power BI, Power Query, DAX, NetSuite, Airtable, Microsoft 365 (SharePoint, Excel), Jira
-- **Forecasting & Planning:** Demand Forecasting, Inventory Optimization, Inventory KPI Tracking, Time Series Forecasting
-- **Process Implementation:** ERP (NetSuite, Airtable), Vendor Management, Product Owner, Project Management (Jira)
+## 🛠️ Skills & Tools
+- 💻 **Technical:** Python (NumPy, Pandas, Polars, Scikit-learn, XGBoost, Keras, PyTorch), RStudio, SQL, MySQL, Spark, NLP, LLM
+- 📊 **Business Intelligence:** Tableau, Power BI, Power Query, DAX, NetSuite, Airtable, Microsoft 365 (SharePoint, Excel), Jira
+- 📈 **Forecasting & Planning:** Demand Forecasting, Inventory Optimization, Inventory KPI Tracking, Time Series Forecasting
+- ⚙️ **Process Implementation:** ERP (NetSuite, Airtable), Vendor Management, Product Owner, Project Management (Jira)
 
 ## 📅 Professional Timeline
 | Duration                 | Role / Program                                    | Company / Institution                         |
@@ -24,9 +24,9 @@ Hi, I'm Faithan - pronounced like "Nathan with an F"!
 ## 📂 Portfolio Projects
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Forecasting Sales for Walmart (Kaggle)](https://github.com/FaithanTo/Walmart-Forecasting-Kaggle) | Time series forecasting for 28-day horizon using LSTM | PyTorch (LSTM), Scikit-learn, Pandas, NumPy, Polars, Parquet I/O, Matplotlib |
+| [Forecasting Sales for Walmart](https://github.com/FaithanTo/Walmart-Forecasting-Kaggle) | Time series forecasting for 28-day horizon using LSTM | PyTorch (LSTM), Scikit-learn, Pandas, NumPy, Polars, Parquet I/O, Matplotlib |
 | [Natural Language Processing for Narratives](https://github.com/FaithanTo/NLP-for-Narratives) | Clustering and editorial synthesis of news | Scikit-learn (TF-IDF, Clustering), OpenRouter (LLM), Pandas, GNews API |
-| [Image Classification (Kaggle)](https://github.com/FaithanTo/Image-Classification-Kaggle) | Fine-tuned CNN (Xception) for classifying Dogs vs. Cats | TensorFlow (Keras), CNN (Xception, ResNet50), Scikit-learn, Pandas, Matplotlib |
+| [Image Classification](https://github.com/FaithanTo/Image-Classification-Kaggle) | Fine-tuned CNN (Xception) for classifying Dogs vs. Cats | TensorFlow (Keras), CNN (Xception, ResNet50), Scikit-learn, Pandas, Matplotlib |
 | [Fix Reality, Not the Machine](https://github.com/FaithanTo/Fix-Reality-Not-the-Machine) | Analyzed the "fairness" of statistics in the COMPAS racial bias debate | Statsmodels, Scikit-learn, Pandas, Matplotlib |
 
 ## 📫 Let's Connect: [LinkedIn](https://linkedin.com/in/faithan-to)
