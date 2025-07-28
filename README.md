@@ -15,7 +15,7 @@ Hi, I'm Faithan - pronounced like "Nathan with an F"!
 
 ## 📅 Professional Timeline
 | Duration                 | Role / Program                                    | Company / Institution                         |
-|----------------------|---------------------------------------------|--------------------------------------|
+|------------------------|------------------------------------------------|--------------------------------------|
 | Nov 2024 – Present   | Analytics Student Consultant                | 🧠 Carlson Analytics Lab                |
 | Aug 2024 – Present   | *Master of Science in Business Analytics*     | 🎓 UMN Carlson School of Management     |
 | Aug 2021 – Apr 2024  | Inventory Analyst (Wild Fable)              | 🎯 Target Corporation                   |
