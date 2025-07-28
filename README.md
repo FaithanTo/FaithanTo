@@ -14,12 +14,12 @@ Hi, I'm Faithan - pronounced like "Nathan with an F"!
 - ⚙️ **Process Implementation:** ERP (NetSuite, Airtable), Vendor Management, Product Owner, Project Management (Jira)
 
 ## 📅 Professional Timeline
-| Duration                 | Role / Program                                    | Company / Institution                         |
-|------------------------|------------------------------------------------|--------------------------------------|
-| Nov 2024 – Present   | Analytics Student Consultant                | 🧠 Carlson Analytics Lab                |
-| Aug 2024 – Present   | *Master of Science in Business Analytics*     | 🎓 UMN Carlson School of Management     |
-| Aug 2021 – Apr 2024  | Inventory Analyst (Wild Fable)              | 🎯 Target Corporation                   |
-| Aug 2018 – May 2021  | *Bachelor of Science in Supply Chain & Operations Management* | 🎓 UMN Carlson School of Management     |
+| Duration             | Role / Program                                               | Company / Institution                  |
+|----------------------|--------------------------------------------------------------|----------------------------------------|
+| Nov 2024 – Present   | Analytics Student Consultant                                  | 🧠 Carlson Analytics Lab               |
+| Aug 2024 – Present   | *Master of Science in Business Analytics*                 | 🎓 UMN Carlson School of Management    |
+| Aug 2021 – Apr 2024  | Inventory Analyst (Wild Fable)                                | 🎯 Target Corporation                  |
+| Aug 2018 – May 2021  | *Bachelor of Science in Supply Chain<br>& Operations Management* | 🎓 UMN Carlson School of Management    |
 
 ## 📂 Portfolio Projects
 | Project | Description | Tools |
