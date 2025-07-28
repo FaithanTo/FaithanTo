@@ -6,9 +6,9 @@
 
 ## About Me
 Hi, I'm Faithan - pronounced like "Nathan with an F"!
-- Caffeinated supply chain analyst and MS in Business Analytics candidate who bridges business strategy with applied machine learning (LSTM, NLP, etc...). Whether it’s forecasting demand, streamlining ERP systems, or designing dashboards, I focus on delivering operational impact.
+- Caffeinated supply chain analyst and MS in Business Analytics candidate who bridges business strategy with applied machine learning (LSTM, NLP, etc...).
+- Whether it’s forecasting demand, streamlining ERP systems, or designing dashboards, I focus on delivering operational impact.
 - Currently wrapping up my time at Minnesota Carlson where I've used Python, R, SQL, Tableau, Power BI, and Jira to build practical, project-based analytics solutions across supply chain use cases.
-- Recognized for my Excel expertise, troubleshooting dexterity, and collaborative mindset during my time managing inventory for a Fortune 50 retailer.
 
 ## 📂 Portfolio Projects
 | Project | Description | Tools |
