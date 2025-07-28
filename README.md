@@ -1,14 +1,17 @@
-# Faithan To
-
-**MS in Business Analytics** Candidate @ UMN Carlson
+# Faithan To (like "Nathan", with an "F")
 
 **Interests:** Supply Chain Analytics, Forecasting Models, Applied ML, Coffee ☕
 
-## About Me
 Hi, I'm Faithan - pronounced like "Nathan with an F"!
 - Caffeinated supply chain analyst and MS in Business Analytics candidate who bridges business strategy with applied machine learning (LSTM, NLP, etc...).
 - Whether it’s forecasting demand, streamlining ERP systems, or designing dashboards, I focus on delivering operational impact.
 - Currently wrapping up my time at Minnesota Carlson where I've used Python, R, SQL, Tableau, Power BI, and Jira to build practical, project-based analytics solutions across supply chain use cases.
+
+**Skills & Tools**
+- Technical: Python (NumPy, Pandas, Polars, Scikit-learn, XGBoost, Keras, PyTorch), RStudio, SQL, MySQL, Spark, NLP, LLM
+- Business Intelligence: Tableau, Power BI, Power Query, DAX, NetSuite, Airtable, Microsoft 365 (SharePoint, Excel), Jira
+- Forecasting & Planning: Demand Forecasting, Inventory Optimization, Inventory KPI Tracking, Time Series Forecasting
+- Process Implementation: ERP (NetSuite, Airtable), Vendor Management, Product Owner, Project Management (Jira)
 
 ## 📂 Portfolio Projects
 | Project | Description | Tools |
