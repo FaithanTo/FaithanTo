@@ -8,10 +8,10 @@ Hi, I'm Faithan - pronounced like "Nathan with an F"!
 - **MS in Business Analytics Candidate at UMN Carlson** where I've used Python, R, SQL, Tableau, Power BI, and Jira to build practical, project-based analytics solutions across supply chain use cases.
 
 ## 🛠️ Skills & Tools
-- 💻 **Technical:** Python (NumPy, Pandas, Polars, Scikit-learn, XGBoost, Keras, PyTorch), RStudio, SQL, MySQL, Spark, NLP, LLM
-- 📊 **Business Intelligence:** Tableau, Power BI, Power Query, DAX, NetSuite, Airtable, Microsoft 365 (SharePoint, Excel), Jira
-- 📈 **Forecasting & Planning:** Demand Forecasting, Inventory Optimization, Inventory KPI Tracking, Time Series Forecasting
-- ⚙️ **Process Implementation:** ERP (NetSuite, Airtable), Vendor Management, Product Owner, Project Management (Jira)
+- 💻 **Technical:** Python (NumPy, Pandas, Polars, Scikit-learn, XGBoost, Keras, PyTorch), R, RStudio, SQL, MySQL, Spark, NLP, LLM
+- 📊 **Business Intelligence:** Tableau, Power BI, Power Query, DAX, Microsoft 365 (Excel, PowerPoint, SharePoint), Data Modeling
+- 📈 **Supply Chain Expertise:** Time-Series & Demand Forecasting, KPI Tracking, Inventory Optimization, Vendor Management
+- ⚙️ **Process Execution:** ERP (NetSuite, Airtable), ETL Pipelines, Product Ownership, Project Management (Jira), Automation
 
 ## 📅 Professional Timeline
 | Duration             | Role / Program                                               | Company / Institution                  |
